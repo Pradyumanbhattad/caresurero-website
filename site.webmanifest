@@ -1,0 +1,21 @@
+{
+  "name": "CaresureRO",
+  "short_name": "CaresureRO",
+  "description": "Hyderabad's trusted RO water purifier experts. Free water test at home.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#1e2fa0",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
