@@ -1,0 +1,9 @@
+# Redirect non-trailing-slash URLs to trailing-slash versions
+/blog                   /blog/                  301
+/blog/what-is-tds       /blog/what-is-tds/      301
+/blog/how-ro-works      /blog/how-ro-works/     301
+/blog/ro-vs-uv-vs-uf    /blog/ro-vs-uv-vs-uf/   301
+/blog/filter-change-signs /blog/filter-change-signs/ 301
+/blog/ro-maintenance    /blog/ro-maintenance/   301
+/blog/hard-vs-soft-water /blog/hard-vs-soft-water/ 301
+/thank-you              /thank-you/             301
